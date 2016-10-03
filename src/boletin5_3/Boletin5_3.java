@@ -11,7 +11,7 @@ public class Boletin5_3 {
      Circulo c=new Circulo(radio,pi);
      JOptionPane.showMessageDialog(null,"Area circulo" +c.areaCirculo()+" m");
      JOptionPane.showMessageDialog(null,"Lonxitude" +c.lonxitude() +" m²");
-    //me aburro
+    //repetir las cosas es aburrido
         
     }
     
