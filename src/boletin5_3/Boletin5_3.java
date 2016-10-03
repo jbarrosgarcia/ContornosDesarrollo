@@ -9,9 +9,9 @@ public class Boletin5_3 {
      String resultado=JOptionPane.showInputDialog("Radio");
      radio=Double.parseDouble(resultado);
      Circulo c=new Circulo(radio,pi);
-     JOptionPane.showMessageDialog(null,"Area circulo" +c.areaCirculo()+"m");
-     JOptionPane.showMessageDialog(null,"Lonxitude" +c.lonxitude() +"m²");
-    
+     JOptionPane.showMessageDialog(null,"Area circulo" +c.areaCirculo()+" m");
+     JOptionPane.showMessageDialog(null,"Lonxitude" +c.lonxitude() +" m²");
+    //me aburro
         
     }
     
